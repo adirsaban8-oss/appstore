@@ -9,7 +9,7 @@ The official repository for the [1Panel](https://github.com/1Panel-dev/1Panel) A
  - Official Docker images provided
  - Other approved projects
 
-## Issue Reporting
+## Issue Repשorting
 
 If you encounter any problems during use or have additional feedback, please submit a GitHub Issue to the [main 1Panel repository](https://github.com/1Panel-dev/1Panel/issues).
 
